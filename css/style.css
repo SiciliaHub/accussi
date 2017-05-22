@@ -20,7 +20,7 @@ hr { display: block; height: 1px;
  margin: 1em 0; padding: 0; } 
 
  .petrosino {
-  color: #47A447 !important;
+  color: #F38F19 !important;
 }
 
 .highlight {
@@ -45,19 +45,19 @@ ul.share-buttons li{
 }
 
 ul.nav li a, ul.nav li a:visited {
-    color: #47A447 !important;
+    color: #F38F19 !important;
 }
 
 ul.nav li a:hover, ul.nav li a:active {
-    color: #47A447 !important;
+    color: #F38F19 !important;
 }
 
 ul.nav li.active a {
-    color: #47A447 !important;
+    color: #F38F19 !important;
 }
 
 a {
-    color: #47A447 !important;
+    color: #F38F19 !important;
 }
 
 /* rimosso momentaneamente export tool */
