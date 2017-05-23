@@ -1,10 +1,10 @@
 # Accussì
 <p>
 	Accussì è un <strong>catalogo</strong> multitematico di <strong>tutorial</strong> realizzati da diversi soggetti nel mondo dei dati. È stato realizzato per permetterne una <strong>più facile individuazione</strong> ai più diversi tipi di utenza: cittadini, imprese,
-	associazioni, studiosi, ecc..
+	associazioni, studiosi, civic hackers, dipendenti della Pubblica Amministrazione, ecc..
 </p>
 <p>
-	I contenuti provengono da siti di diverse comunità (privati, associazioni, ...).
+	I contenuti provengono da siti di diverse comunità (privati, associazioni, civic hackers) che condividono la conoscenza attraverso i tutorial.
 </p>
 <p>
 	L'obiettivo di Accussì è <strong>divulgare la cultura digitale</strong> quale strumento di supporto alla vita quotidiana di ogni cittadino, veicolando contenuti creati attraverso la generazione e l'utilizzo di dati.
@@ -12,7 +12,7 @@
 <p>
 	È un <strong>iniziativa collettiva</strong> e si nutre della collaborazione di chi condivide le finalità descritte.
 </p>
-<p><strong>Accussì</strong> è si fa così" in siciliano. Abbiamo pensato a questo nome per giocare un po' con il nostro amato dialetto, usando una parola che si associa a "si fa così, in questa maniera".</p>
+<p><strong>Accussì</strong> significa "si fa così" in siciliano. Abbiamo pensato a questo nome per giocare un po' con il nostro amato dialetto, usando una parola che si associa a "si fa così, in questa maniera".</p>
 
 L'homepage di Accussì è [http://accussi.opendatasicilia.it](http://accussi.opendatasicilia.it)
 
